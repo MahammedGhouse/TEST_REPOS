@@ -5,3 +5,15 @@ out->write('Hello world').
 
 
 Write: 'First version is done'.
+
+
+perform add_num.
+
+form add_num
+
+data(a) = 1.
+data(b) = 2.
+data(c) = a + b.
+
+write: 'C value= ' c.
+endform.
