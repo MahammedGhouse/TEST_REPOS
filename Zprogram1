@@ -1,3 +1,4 @@
 program zprogram1.
 
 write 'Hello World'.
+out->write('Hello world').
