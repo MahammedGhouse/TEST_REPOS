@@ -16,4 +16,6 @@ data(b) = 2.
 data(c) = a + b.
 
 write: 'C value= ' c.
+data(d) = b - a.
+write: 'D value=', d.
 endform.
