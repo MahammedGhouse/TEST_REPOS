@@ -5,3 +5,12 @@ out->write('Hello world').
 
 
 Write: 'First version is done'.
+
+perform condense_txt.
+
+form condense_txt.
+
+data(txt1) = 'I am Mohammed'.
+write condense(txt1).
+
+endform
